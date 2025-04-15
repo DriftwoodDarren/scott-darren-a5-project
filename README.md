@@ -1,2 +1,1 @@
-# scott-darren-a5-project
-The Final Project for Game Development Fundamentals
+# w25-a5-workalong
